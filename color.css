@@ -1,0 +1,146 @@
+.stars
+{
+    color: rgb(215, 195, 14);
+}
+.btn{
+    border-radius: 40px;
+    padding: 2px;
+    width: 100px;
+    /* border-color: #0e387a; */
+    /* background-color: dodgerblue; */
+    background-color: #0e387a;;
+    /* color:floralwhite */
+    border: none;
+    color: white;
+    font-style: normal;
+    }
+    /* body{
+        font-size: 12px;
+    } */
+    .left-section
+    {
+        font-size: 16px;
+    }
+   /* .bottomtext p */
+    /* { */
+        /* font-size: 80%; */
+        /* font-weight: 900; */
+    /* } */
+    /* .bottomheading-container */
+    /* { */
+        /* font-size: 30px; */
+    /* } */
+    /* .bottomheading
+    {
+        font-size: 20px;
+    } */
+    /* .bottomheading-container .bottomheading p.bottomtext
+    {
+        font-size: 30px;
+    } */
+    .listspaneading
+    {
+        font-size: 15px;
+    }
+    .a{
+        font-size: 13px;
+        /* color: black; */
+        /* color: rgb(31, 31, 31); */
+        color: #343a40; 
+    }
+    .bottomtext
+    {
+        font-size: 14px;
+    }
+    /* .right-section
+    {
+        font-size: 29px;
+    } */
+    #responsibility
+    {
+        font-size: 14px;
+        /* color: #343a40;  */
+        color: #6c757d;
+
+    }
+    #responsibility1
+    {
+        font-size: 14px;
+        /* color: #343a40;  */
+        color: #6c757d;
+    }
+    .listspaneading
+    {
+        font-size: 14px;
+    }
+    .project
+    {
+        font-size: 14px;
+        /* color: #343a40;  */
+        color: #6c757d;
+    }
+    .noofachi
+    {
+        font-size: 14px;
+    }
+    .educationwrapper
+    {
+        font-size: 14px;
+    }
+    .profile
+    {
+        font-size: 14px;
+        /* font-family: var(--bs-font-sans-serif); */
+        font-family: Verdana, sans-serif;
+        /* color: #6c757d; */
+        /* color: #343a40; */
+        color: #6c757d;
+    }
+    /* .main-container .top-conatiner
+    {
+        width: 100%;
+        flex: 1;
+    }
+     */
+    .responsibility{
+        list-style: none;
+        list-style-type: none;
+    }
+    .starheading
+    {
+        /* color: #343a40;  */
+        color: #6c757d;
+    }
+    .address
+    {
+        /* color: #343a40;  */
+        color: #6c757d;
+    }
+    
+.schoolname
+{
+    /* color: #343a40;  */
+    color: #6c757d;
+}
+.score{
+    /* color: #343a40;   */
+    color: #6c757d;
+}
+.noofachi
+{
+    /* color: #343a40;  */
+    color: #6c757d;
+}
+/* .skills{
+    color: #343a40; 
+    font-style: bold;
+} */
+.button
+{
+    /* color: #343a40;   */
+    color: #6c757d;
+}
+.yrofcomp
+{
+    color: #6c757d;
+}
